@@ -1,16 +1,24 @@
 # Jamming App 
 Create new plalylists in Spotify.
 
-To run locally `npm install`, then `npm start`, opens on https:\\localhost:3000.
-
 ## Description
-In this app you can search through Spotify songs with a search term and
+In this app you can search through Spotify songs using a search term and
 add songs to a new playlist.
+
 For saving the playlist you'll need to log-in to Spotify.
 
 ## Challenges
-1. Spotify API.
+1. Interact with Spotify's API.
 2. Asynchronous JS.
+
+
+## setup 
+
+This Project was setup using create react app.
+
+To run locally first run `npm install` and then `npm start`. 
+The application will open on http://localhost:3000.
+
 
 
 
