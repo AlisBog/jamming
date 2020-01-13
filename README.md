@@ -11,8 +11,7 @@ For saving the playlist you'll need to log-in to Spotify.
 1. Interact with Spotify's API.
 2. Asynchronous JS.
 
-
-## setup 
+## Setup 
 
 This Project was setup using create react app.
 
